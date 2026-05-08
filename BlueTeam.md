@@ -20,7 +20,6 @@ In the Blue Team, roles are usually divided by experience and responsibility. He
 * **SOC Analyst (Tier 2 & 3):** Handles the most complex alerts that Tier 1 couldn't solve. Deep technical investigation.
 * **Digital Forensics Analyst:** The "investigators" of the internet. They analyze after an attack already happened to find out exactly how a hacker got in.
 * **Threat Hunter:** They don't wait for an alert. They proactively search the network for hidden hackers that haven't been detected yet.
-* **Malware Analyst:** They take viruses apart in a laboratory to understand how they work and how to stop them.
 
 ###  Level 3: Senior & Leadership
 *Strategic roles. You design the defense systems or lead the teams.*
@@ -28,7 +27,8 @@ In the Blue Team, roles are usually divided by experience and responsibility. He
 * **Security Architect:** Designs the entire security infrastructure of a company. 
 * **Incident Response Lead:** The person in charge of managing the crisis during a major cyberattack.
 * **CISO (Chief Information Security Officer):** The executive role. In charge of the entire company's security strategy and budget.
-
+* **Malware Analyst/Reverse engineer :** They take viruses apart in a laboratory to understand how they work and how to stop them and detect them next time. 
+  
 ## SOC Analyst Roadmap (Resources & Certs)
 
 To land that Tier 1 SOC Analyst role, you need hands-on practice. I have divided the best resources into a learning and certification path.
