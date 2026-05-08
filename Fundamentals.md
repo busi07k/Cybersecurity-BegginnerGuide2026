@@ -9,8 +9,8 @@ $$\color{white}{\Huge\text{IT/Cybersecurity Fundamentals}}$$
 **Create an account on these sites (Free & Paid options):**
 
 * 🟢 **[HackTheBox](https://www.hackthebox.com/):** The industry standard. They have great free "Tier 0" modules in their Academy and free machines to practice.
-* 🔵 **[TryHackMe](https://tryhackme.com/):** Very beginner-friendly, but keep in mind that most structured paths require a **paid subscription (~$15/month)**. I will provide free Alternatives, but if you can afford it, highly recommended.    
-* 🔴 **[YouTube](https://www.youtube.com/):** Our 100% free university. I have curated the best technical channels so you don't have to pay for basic theory.
+* 🔵 **[TryHackMe](https://tryhackme.com/):** Very beginner-friendly, but keep in mind that most structured paths require a **paid subscription (~$15/month)**. I will provide free Alternatives, but if you can afford it, its highly recommended.    
+* 🔴 **[YouTube](https://www.youtube.com/):** I have curated the best technical channels so you don't have to pay for basic theory.
 
 
 ---
@@ -31,7 +31,7 @@ As we mentioned in the index, you cannot secure or hack a network if you don't u
 > *(Highly recommended: If you want to validate your knowledge and boost your resume, the **CompTIA Network+** is one of the best entry-level certifications you can get. This playlist covers exactly the theory you need).*
 *  **Practice (TryHackMe):** [Network Fundamentals Module](https://tryhackme.com/module/network-fundamentals) 
 *(Complete exactly this module: What is Networking, Intro to LAN, OSI Model, and Packets & Frames. Build the base first).*
-*  **Read (HackTheBox Academy):** [Introduction to Networking](https://academy.hackthebox.com/module/details/34) 
+*  **Read (HackTheBox Academy/Free Alternative to Tryhackme):** [Introduction to Networking](https://academy.hackthebox.com/module/details/34) 
 *(A very solid, text-based module to reinforce the OSI model and TCP/IP. It is completely free in their Tier 0).*
 
 **If you complete this successfully, you will have a rock-solid foundation in networking.** 
@@ -41,20 +41,23 @@ As we mentioned in the index, you cannot secure or hack a network if you don't u
 
 Most corporate environments run on Windows. To defend or attack these systems, you must go beyond the user interface and understand how the operating system actually works internally. 
 
-* 🔵 **Practice (TryHackMe):** [Windows Fundamentals Module](https://tryhackme.com/module/windows-fundamentals) 
-*(A 3-part series covering everything from basic GUI to the Registry, Services, and Processes. It's the perfect starting point).*
-* 🟢 **Read & Practice (HackTheBox Academy):** [Windows Operating System Fundamentals](https://academy.hackthebox.com/module/details/216) 
-*(A deep dive into the Windows architecture. This will give you the technical edge needed for advanced roles).*
+* 🟢 **Read & Practice (HackTheBox Academy):** [Windows Operating System Fundamentals](https://academy.hackthebox.com/app/module/49)
+*(A deep dive into the Windows architecture. This will give you the technical knowledge on windows basics).*
 
 ---
 ## 3. Linux Fundamentals
 
-The terminal is your new home. Mastery of the command line is mandatory.
+The terminal is your new home. Mastery of the command line is mandatory
 
+( I recommend to build a kali linux VM for practice ) --> [Setup Kali VM](https://www.youtube.com/watch?v=EvQLXtnb5mE)
+
+* 🔴 **Watch (YouTube):** [Linux Fundamentals Part 1](https://www.youtube.com/watch?v=kPylihJRG70)
+* 🔴 **Watch (YouTube):** [Linux Fundamentals Part 2](https://www.youtube.com/watch?v=7Zt2Mp2IeBI)
 * 🟢 **Practice (HackTheBox Academy):** [Linux Fundamentals](https://academy.hackthebox.com/module/details/18). (This module combines theory with practice )
-*    **Practice (Game):** [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) (The best free way to learn Linux, this is just a game, before getting here, complete the HTB module).
-*    
-     (**Note:** This is a "CLI-based" game. The game IS your terminal. To play, you must connect via SSH using the credentials provided for each level. Your mission is to find the hidden password to the next level using Linux commands.)
+  > This HTB module is an alternative to both videos of Linux Fundamentals, up to you what you prefer, video explanation, or theory. 
+*    **Practice (Game):** [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) (The best free way to learn Linux, this is just a game, before getting here, complete the HTB module or Fundamentals videos).
+     
+  > (**Note:** This is a "CLI-based" game. The game IS your terminal. To play, you must connect via SSH using the credentials provided for each level. Your mission is to find the hidden password to the next level using Linux commands.)
 
 ---
 ## 4. Cybersecurity Fundamentals
@@ -67,7 +70,7 @@ This is the final step of your foundation. Here, you will learn the "why" and "h
 * 🟢 **Read (HTB Academy):** [Information Security Foundations](https://academy.hackthebox.com/module/details/73)
 *(A 100% free module to reinforce the concepts of risk, threats, and security controls).*
 
-**If you complete this successfully, you will have an amazing foundation in cybersecurity.**
+**If you complete this successfully, you will have an amazing foundation in general cybersecurity.**
 
 ---
 
