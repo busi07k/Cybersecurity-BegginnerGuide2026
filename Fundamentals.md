@@ -53,10 +53,8 @@ The terminal is your new home. Mastery of the command line is mandatory
 
 * 🔴 **Watch (YouTube):** [Linux Fundamentals Part 1](https://www.youtube.com/watch?v=kPylihJRG70)
 * 🔴 **Watch (YouTube):** [Linux Fundamentals Part 2](https://www.youtube.com/watch?v=7Zt2Mp2IeBI)
-* 🟢 **Practice (HackTheBox Academy):** [Linux Fundamentals](https://academy.hackthebox.com/module/details/18). (This module combines theory with practice )
-  > This HTB module is an alternative to both videos of Linux Fundamentals, up to you what you prefer, video explanation, or theory. 
+* 🔴 **Watch (YouTube):** [Linux Fundamentals Part 3](https://www.youtube.com/watch?v=bwgaZCb2ft8)
 *    **Practice (Game):** [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) (The best free way to learn Linux, this is just a game, before getting here, complete the HTB module or Fundamentals videos).
-     
   > (**Note:** This is a "CLI-based" game. The game IS your terminal. To play, you must connect via SSH using the credentials provided for each level. Your mission is to find the hidden password to the next level using Linux commands.)
 
 ---
