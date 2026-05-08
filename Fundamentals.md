@@ -9,7 +9,7 @@ $$\color{white}{\Huge\text{IT/Cybersecurity Fundamentals}}$$
 **Create an account on these sites (Free & Paid options):**
 
 * 🟢 **[HackTheBox](https://www.hackthebox.com/):** The industry standard. They have great free "Tier 0" modules in their Academy and free machines to practice.
-* 🔵 **[TryHackMe](https://tryhackme.com/):** Very beginner-friendly, but keep in mind that most structured paths require a **paid subscription (~$10/month)**. I will provide free Alternatives, but if you can afford it, highly recommended.    
+* 🔵 **[TryHackMe](https://tryhackme.com/):** Very beginner-friendly, but keep in mind that most structured paths require a **paid subscription (~$15/month)**. I will provide free Alternatives, but if you can afford it, highly recommended.    
 * 🔴 **[YouTube](https://www.youtube.com/):** Our 100% free university. I have curated the best technical channels so you don't have to pay for basic theory.
 
 
