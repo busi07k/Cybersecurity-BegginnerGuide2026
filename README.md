@@ -1,5 +1,5 @@
 # Cybersecurity-BegginerGuide2026
-Hello enthusiast!! I created this guide for begginers into cybersecurity, that will cover the most fundamental and basic concepts you must cover before getting into any role. This is an open source repository, if you want to request something to be added you are welcome!!
+Hello enthusiast!! I created this guide for begginners into cybersecurity, that will cover the most fundamental and basic concepts you must cover before getting into any role. This is an open source repository, if you want to request something to be added you are welcome!!
 
 $$\color{purple}{\Huge\text{What is cybersecurity?}}$$
 
@@ -30,3 +30,17 @@ $$\color{purple}{\Huge\text{What is cybersecurity?}}$$
 
 
 
+$$\color{white}{\Huge\text{Where i should start?}}$$
+
+
+
+⚪ **IT Fundamentals:** You cannot defend, You cannot defend or exploit something you don't know how it works, good part is that both Teams have the same IT fundamentals, so for both Teams you have to learn the same basics, this is the first file you have to visit in here, i created a simple path with the best free and paid resources on the internet, this must be your step[0]. Check it here : [Fundamentals](./Fundamentals)
+
+**After learning the IT and cybersecurity fudamentals you have to choose a path and role, I'll be 100% honest, if you have 0 experience in cybersecurity its very hard landing a first cybersecurity job in RedTeam, the most common entry levels in cybersecurity are in BlueTeam, You can't exploit something you don't know it defends. After gaining some experience in cybersecurity its more realistic getting into RedTeam, but this recommendations is only based on what i have seen, you can follow the team you most like.**
+
+
+---
+
+## 🤝 Contribute & Connect
+This is an open-source guide made for the community. Have a great resource, a YouTube channel that doesn't sell hype, or a free lab? 
+* Open a **Pull Request** to add it to the lists!
