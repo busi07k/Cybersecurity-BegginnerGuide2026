@@ -7,7 +7,7 @@ If you have completed the main paths and want to keep honing your skills, here i
 ## Blue Team Resources
 
 ### YouTube Channels (DFIR & Defense)
-* **[13Cubed](https://www.youtube.com/@13cubed):** The absolute best channel for deep technical dives into Digital Forensics and Incident Response (DFIR).
+* **[13Cubed](https://www.youtube.com/@13cubed):** one of the best channels for deep technical dives into Digital Forensics and Incident Response (DFIR).
 * **[MyDFIR](https://www.youtube.com/@MyDFIR):** Excellent tutorials on building SOC home labs and understanding defense mechanics.
 * **[BlackPerl](https://www.youtube.com/@BlackPerl):** Focuses specifically on Blue Team operations, SOC Analyst workflows, and defensive strategies.
 
