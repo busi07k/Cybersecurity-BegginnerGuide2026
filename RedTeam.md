@@ -23,7 +23,11 @@ Because this is a more advanced field, the career path looks different than the 
 * **Malware Developer:** You write custom viruses, trojans, and ransomware simulations specifically designed to bypass the latest EDRs and Antiviruses used by the Blue Team. *(This is highly advanced and requires deep C/C++, OS internals knowledge and evasion techniques).*
 
 ---
+If you are here, means you are appasionate about ethical hacking and you want to learn or improve your skills, now I'll explain why I've chosen these certifications and learning paths.
+eJPT and PJPT are both 100% made for beginners that know the basics of cybersecurity, the ones you should have did [here](./Fundamentals.md), so once you have took one of this certifications, you will get a solid foundation in pentesting / ethical hacking, the next logical step is to improve your level, lock in, do labs, learn from the community, be better, once you do this, you can take the next step, and choose one of the intermediate certifications i indicated, OSCP - CPTS or PNPT, this certifications are not for beginners, thats why you must have a solid foundations before getting in here.
+> Remember to build your portfolio with your achievments and labs completed, this will validate even more your skills 
 
+---
 ### The Certifications: Reality Check
 
 In the offensive side, multiple-choice exams are useless. Certifications here are grueling 24-hour to 5-day practical hacking exams. We divide them into two categories:
@@ -31,7 +35,7 @@ In the offensive side, multiple-choice exams are useless. Certifications here ar
 #### 🟢 The Stepping Stones (Junior Level)
 *Do not expect to get a job instantly with these. They are designed to build your confidence and prove you know the methodology before attempting the big ones. ( choose one )*
 
-* **[eJPT (eLearnSecurity Junior Penetration Tester)](https://securityblue.team/):** A very popular beginner certification. It proves you know how to run a basic pentest, use the tools, and write a report.
+* **[eJPT (eLearnSecurity Junior Penetration Tester)](https://ine.com/security/certifications/ejpt-certification):** A very popular beginner certification. It proves you know how to run a basic pentest, use the tools, and write a report.
 *How to study:* This exam is tied to **INE Security's Penetration Testing Student (PTS)** course.
   
 * **[PJPT (Practical Junior Penetration Tester)](https://certifications.tcm-sec.com/pjpt/):** By TCM Security. Highly recommended over the eJPT because it focuses heavily on attacking internal networks and Active Directory (which is what companies actually use).
