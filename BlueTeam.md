@@ -59,10 +59,6 @@ Final recommendations on the certifications you should have before looking for y
 * SC900 = Microsoft entry-level certification, will teach you the basics about Microsoft eviorment ( Microsoft defender XDR, Microsoft Sentinel, Azure...) nowdays many companies use Microsoft Enviorment.
 > I Highly recommend that you create your own home lab, ill leave here a repository where i show you how to configure your virtual machines and build your Splunk Homelab from 0 -> [Click](https://github.com/busi07k/splunkhomelab)
 > I also recommendate that you post and be active in the community, teach, and let them teach you!! GoodLuck Analyst!
-
-> Final protip for active students = CompTia provides a 50% voucher in its Sec+ exam if you send an email to them and verify your student status.
-
-> Do you have an educative mail? Register in HTB and you will get a special student offer, for $8 monthly you can access many expensive resources. 
 ---
 
 **Next Steps:** If you haven't completed the [Fundamentals](./Fundamentals.md) yet, go back. You cannot defend what you don't understand. If you are ready, pick a resource above and start hunting!
