@@ -31,5 +31,4 @@ This is an open-source guide made for the community. Have a great resource, a Yo
 ---
 
 ##  Legal Disclaimer
-> [!WARNING]
 > All information and resources provided in this repository are for **educational purposes only**. The creator is not responsible for any misuse of the information. Never attack or scan systems you do not own or have explicit, written permission to test. Stay ethical, stay legal.
