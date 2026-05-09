@@ -23,13 +23,13 @@ I'll explain the basics of each path. It is important to know that each team is 
 
 After learning the IT and cybersecurity fundamentals, you have to choose a path and role. I'll be 100% honest: if you have 0 experience in IT or cybersecurity, it is very hard to land your first job directly in the Red Team. The most common entry-level roles in cybersecurity are in the Blue Team. You can't exploit something if you don't know how to defend it. After gaining some experience, it's more realistic to transition into the Red Team. However, this recommendation is only based on what I have seen; you can follow the path you like the most.
 
-## 🤝 Contribute & Connect
+##  Contribute & Connect
 
 This is an open-source guide made for the community. Have a great resource, a YouTube channel that doesn't sell hype, or a free lab? 
 * Open a Pull Request to add it to the lists!
 
 ---
 
-## ⚠️ Legal Disclaimer
+##  Legal Disclaimer
 > [!WARNING]
 > All information and resources provided in this repository are for **educational purposes only**. The creator is not responsible for any misuse of the information. Never attack or scan systems you do not own or have explicit, written permission to test. Stay ethical, stay legal.
