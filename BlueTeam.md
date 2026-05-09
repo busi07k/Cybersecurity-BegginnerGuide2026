@@ -27,7 +27,17 @@ In the Blue Team, roles are usually divided by experience and responsibility. He
 * **Security Architect:** Designs the entire security infrastructure of a company. 
 * **Incident Response Lead:** The person in charge of managing the crisis during a major cyberattack.
 * **CISO (Chief Information Security Officer):** The executive role. In charge of the entire company's security strategy and budget.
-* **Malware Analyst/Reverse engineer :** They take viruses apart in a laboratory to understand how they work and how to stop them and detect them next time. 
+* **Malware Analyst/Reverse engineer :** They take viruses apart in a laboratory to understand how they work and how to stop them and detect them next time.
+
+
+---
+
+Blue Team is the best starting role in cybersecurity for beginners, it will give you a wide view of how real incidents are managed, how to work under pression, and build your cybersecurity profile, pivoting to some RedTeam role from here is much easier and it will make you a much better RedTeamer. So if you are just starting into cybersecurity you made a good choice starting here. In this file i recommend the Tryhackme path over the HTB one, because Tryhackme is more visual and friendly for beginners, after completing this route ( Tryhackme + BTL1 + SC900 ) you will have the following skills perfect for landing your first BlueTeamer Role : 
+
+- **SIEM & Log Analysis:** Ability to navigate and query large datasets using tools like Splunk or Microsoft Sentinel to identify suspicious activities and track attacker movements.
+- **Network & Digital Forensics:** Hands-on experience analyzing network traffic (PCAPs) with Wireshark and extracting malicious artifacts from compromised endpoints.
+- **Incident Response & Alert Triage:** Understanding how to investigate phishing attempts, safely analyze malware behavior, and follow the standard incident response lifecycle.
+- **Microsoft Security Ecosystem:** Foundational knowledge of cloud security, Identity and Access Management (Entra ID), Zero Trust principles, and the Microsoft Defender environment.
   
 ## SOC Analyst Roadmap (Resources & Certs)
 
