@@ -1,4 +1,4 @@
-# 🔵 Blue Team: The Digital Defenders
+# 🔵 Blue Team: Defenders
 
 The Blue Team is the heart of corporate security. Their mission is to monitor, detect, and respond to threats in real-time. If you like investigating, analyzing data, and protecting infrastructure, this is your place.
 
